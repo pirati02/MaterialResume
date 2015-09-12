@@ -1,11 +1,8 @@
 # MaterialResume
-A example of Material Resume
+Material Design Resume
 
 ### Mockup
-![alt mockup](./mockup.jpg)
-
-Made with [Sketch](http://bohemiancoding.com/sketch/)
+![alt mockup](./mockup.png)
 
 ### Example
-
-[stankocken.com/cv](http://www.stankocken.com/cv)
+[tatocaster.me/cv](https://tatocaster.me/cv)
