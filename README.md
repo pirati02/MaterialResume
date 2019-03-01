@@ -2,7 +2,7 @@
 Material Design Resume
 
 ### Mockup
-![alt mockup](./mockup.png)
+![alt mockup](./image.png)
 
 ### See my Resume
 [gogia.ge](http://gogia.ge)
