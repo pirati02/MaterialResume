@@ -5,4 +5,4 @@ Material Design Resume
 ![alt mockup](./mockup.png)
 
 ### See my Resume
-[tatocaster.me/cv](https://tatocaster.me/cv)
+[gogia.ge](http://gogia.ge)
